@@ -1,7 +1,7 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-09-06T04:09:53.867385+00:00",
-  "repo": "ekline/draft-dtn-bp-routing-cla-yang",
+  "timestamp": "2026-09-08T04:10:39.929396+00:00",
+  "repo": "ekline/draft-dtn-bp-fib",
   "labels": [
     {
       "name": "bug",
